@@ -1,0 +1,20 @@
+# Python environment
+.venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Common editor settings
+.idea/
+.vscode/
+*.iml
+*.iws
+.settings/
+.project
+.classpath
+
+# Common system junk
+.DS_Store
+Thumbs.db
+desktop.ini
